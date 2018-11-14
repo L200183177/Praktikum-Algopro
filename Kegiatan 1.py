@@ -1,0 +1,11 @@
+## Program Identitas Data Diri. Dibuat oleh Alif L200183177
+Nama = 'Alif Fauzia Rama Wahyu K'
+Tempat_Tanggal_Lahir = 'Salatiga 27 Mei 2000'
+Jenis_Kelamin = 'Laki-laki'
+Alamat = 'Aspol Lolong PA II No.2 Padang'
+No_HP = '08197522000'
+Agama = 'Islam'
+Status_Perkawinan = 'Belum Menikah'
+Pekerjaan = 'Pelajar/Mahasiswa'
+Kewarganegaraan = 'Indonesia'
+Golongan_Darah = 'O'
